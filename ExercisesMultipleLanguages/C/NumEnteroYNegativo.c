@@ -10,6 +10,8 @@ int main() {
 	scanf("%i",&n);
 	if (n>0) {
 		printf("Numero es positivo y mayor a cero (0)\n");
+	} else {
+		printf("Numero es Negativo;\n");
 	}
 	return 0;
 }
